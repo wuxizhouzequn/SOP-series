@@ -1,6 +1,6 @@
 # SOP Asset Organizer
 
-SOP 资产整理工具 — 用于管理和组织 SOP 相关资产。
+SOP文件夹整理工具 — 用于管理和组织 SOP 相关资产。
 
 ## 安装
 
